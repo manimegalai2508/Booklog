@@ -1,7 +1,7 @@
 
 # BookLog 📚
 
-**BookLog** is a simple and elegant website project designed to showcase my skills in HTML, CSS, and JavaScript. It features a book store with a focus on providing a great user experience.
+**BookLog** is a simple and elegant website project designed to showcase my HTML, CSS, and JavaScript skills. It features a bookstore with a focus on providing a great user experience.
 
 ## Features
 
@@ -13,7 +13,7 @@
 
 ## Demo
 
-Check out the live demo [here](https://yourusername.github.io/booklog).
+Check out the live demo [here](https://booklog-eta.vercel.app/).
 
 ## Project Structure
 
@@ -25,9 +25,9 @@ Check out the live demo [here](https://yourusername.github.io/booklog).
 ## Technologies Used
 
 - **HTML**: Markup language for creating the structure of the web pages.
-- **CSS**: Styling the web pages with a focus on layout, colors, and fonts.
+- **CSS**: Styling the web pages focusing on layout, colors, and fonts.
 - **JavaScript**: Adding interactivity to the web pages.
 
 ## Contact
 
-For any questions or feedback, feel free to reach out via [email](mailto:iam.manimegalai25@gmail.com).
+For any questions or feedback, please reach out via [email](mailto:iam.manimegalai25@gmail.com).
